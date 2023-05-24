@@ -1,5 +1,5 @@
 ## Hi there 👋 Welcome to HealthDoc
-## HealthDoc Porject
+## HealthDoc Project
 
 HealthDoc is a web application that provides users with a platform to manage their health records at anytime-anywhere.
 
